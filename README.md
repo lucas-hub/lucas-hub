@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo(a) ao meu GitHub! :mag_right:
+## Olá! Seja bem vindo(a) ao meu GitHub! :mag_right: (WIP)
  Meu nome é Lucas, sou um QA software analyst. <br>
  Minha trajetória na industria de testes começou na área de jogos eletrônicos, dos mais variados tipos e orçamentos. Hoje, estou embarcando no enriquecimento profissional e agregando os testes automatizados e todo o seu ecossistema a esses 3+ anos de experiência em testes manuais.
 
