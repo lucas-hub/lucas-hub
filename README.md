@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! Seja bem vindo(a) ao meu GitHub! :mag_right:
+ Meu nome é Lucas, sou um QA software analyst. <br>
+ Minha trajetória na industria de testes começou na área de jogos eletrônicos, dos mais variados tipos e orçamentos. Hoje, estou embarcando no enriquecimento profissional e agregando os testes automatizados e todo o seu ecossistema a esses 3+ anos de experiência em testes manuais.
 
-<!--
-**lucas-hub/lucas-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :office_worker:Mais de 3 anos de experiência em testes manuais, num ambiente ágil, utilizando Scrum, JIRA, TestRail e Atlassian Confluence.
+- :desktop_computer:Atualmente estou aprendendo **Testes Automatizados de API, GUI, entre outros, com Cypress no curso "Testes automatizados com Cypress (intermediário)
+ com Walmyr Filho - Udemy"**
+- :open_book:Tenho **inglês** avançado (C2 Proeficient) e **espanhol** básico
+- :mailbox_with_mail:Como me contatar: **lucasbrib444@gmail.com**
+<br>
 
-Here are some ideas to get you started:
+## Competências :monocle_face:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
