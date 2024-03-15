@@ -6,7 +6,7 @@
 - :desktop_computer:Atualmente estou aprendendo **Testes Automatizados de API, GUI, entre outros, com Cypress no curso "Testes automatizados com Cypress (intermediário)
  com Walmyr Filho - Udemy"**
 - :open_book:Tenho **inglês** avançado (C2 Proeficient) e **espanhol** básico
-- :mailbox_with_mail:Como me contatar: **lucasbrib444@gmail.com**
+- :mailbox_with_mail:Como me contatar: **lucasbrib444@gmail.com** teste
 <br>
 
 ## Competências :monocle_face:
