@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo(a) ao meu GitHub! :mag_right: (WIP)
+## Olá! Seja bem vindo(a) ao meu GitHub! :mag_right:
  Meu nome é Lucas, sou um QA software analyst. <br>
  Minha trajetória na industria de testes começou na área de jogos eletrônicos, dos mais variados tipos e orçamentos. Hoje, estou embarcando no enriquecimento profissional e agregando os testes automatizados e todo o seu ecossistema a esses 3+ anos de experiência em testes manuais.
 
@@ -18,3 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
+
+<div>
+   <a href="https://github.com/lucas-hub">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-hub&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
